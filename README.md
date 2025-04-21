@@ -1,4 +1,6 @@
 # SoftwareHW
+![image](https://github.com/user-attachments/assets/19dd39eb-d0e3-47ba-b211-1fb1b99fed75)
+
 import qrcode
 from PIL import Image
 import os
